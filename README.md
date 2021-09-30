@@ -44,11 +44,11 @@ We did not include companies that were general consumer data companies, of which
 Did we miss any? Write to us: [keegan@themarkup.org](mailto:keegan@themarkup.org) and [alfred@themarkup.org](mailto:alfred@themarkup.org)
 
 # Data
-[location-data-companies.csv](https://github.com/the-markup/location-data-industry/blob/master/location-data-companies.csv) - 26.2 KB. 48 rows. First row is the header.
+[location-data-companies.csv](https://github.com/the-markup/location-data-industry/blob/master/location-data-companies.csv) - 26.2 KB. 48 rows. First row is the header (CSV).
 
-[full_company_responses.docx](https://github.com/the-markup/location-data-industry/blob/master/full_company_responses.docx) - 350 KB. All of the responses from the companies we reached out to (DOCX).
+[extended_responses_and_quotes.docx](https://github.com/the-markup/location-data-industry/blob/master/extended_responses_and_quotes.docx) - 350 KB. Extended responses and quotes from interviews with the companies we reached out to (DOCX).
 
-[full_company_responses.pdf](https://github.com/the-markup/location-data-industry/blob/master/full_company_responses.pdf) - 142 KB. All of the responses from the companies we reached out to (PDF).
+[extended_responses_and_quotes.pdf](https://github.com/the-markup/location-data-industry/blob/master/extended_responses_and_quotes.pdf) - 142 KB. Extended responses and quotes from interviews with the companies we reached out to (PDF).
 
 ## Data Dictionary 
 
